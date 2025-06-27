@@ -379,6 +379,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -420,5 +421,6 @@ obj/
 # Ignore all local history of files
 .history
 .ionide
+
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,visualstudiocode,dotnetcore
